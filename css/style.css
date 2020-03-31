@@ -1,0 +1,239 @@
+body{
+background-color: aqua;
+color: #333;
+}
+.container{
+	width: 800px;
+	margin: auto;
+	background-color: #fff;
+	border: 2px solid black;
+
+}
+.container p{
+	height:50px;
+	padding-left: 10px;
+	font-size: 20px; 
+	margin-top: 28px;
+}
+.conten a{
+	font-size: 12px;
+	border-top: 3px solid blue;
+	border-bottom: 2px solid blue;
+	display: inline-block;
+}
+.jalan p{
+	text-align: right;
+	font-size: 10px;
+	margin-top: -60px;
+	margin-right: 50px;
+}
+.baru p{
+	text-align: center;
+	border-top: 5px solid black;
+	margin-top: 10px;
+}
+img{
+	height: 75px;
+	width: 75px;
+	margin:10px;
+	float:left;
+	margin-top: -12px;
+}
+.JJ h5{
+	margin-left: 20px;
+}
+.JJ h5 b1{
+margin-left: 17px;	
+}
+.JJ h5 b{
+	word-spacing: 20px;
+	margin-right: 10px;
+}
+.JJ input{
+	width: 30px;
+	height: 30px;
+	border:1px solid black;
+}
+.SS h5{
+	margin-left: 20px;
+}
+.SS p{
+	margin-left: 25px;
+	font-size: 15px;
+	margin-top: -20px;
+}
+.SS p b1{
+	margin-left: 100px;
+}
+.SS p b2{
+	margin-left: 35px;
+}
+.SS p b3{
+	margin-left: 50px;
+	word-spacing: 10px;
+}
+.SS input{
+	width: 20px;
+	height: 20px;
+	border-color: 5px solid black;
+}
+.SS p b4{
+	margin-left: 93px;
+}
+.SS p b5{
+	margin-left: 94px;
+}
+.SS p b0{
+	margin-left: 15px;
+}
+.SS p b-1{
+	margin-left: 15px;
+}
+.SS p b6{
+	margin-left: 37px;
+}
+.SS p b-2{
+	margin-left: 15px;
+}
+.SS p b7{
+	margin-left: 80px;
+}
+.SS p b8{
+	margin-left: 57px;
+}
+.SS p b9{
+	margin-left: 40px;
+}
+.SS p b14{
+	margin-left: 90px;
+	word-spacing: 10px;
+}
+.SS p b10{
+	margin-left: 100px;
+}
+.SS p b11{
+	margin-left: 75px;
+}
+.SS p b12{
+	margin-left: 43px;
+}
+.SS p b13{
+	margin-left: 75px;
+}
+.CC h5{
+	margin-top: 220px;
+	margin-left: 20px;
+}
+.CC p{
+	font-size: 15px;
+	margin-left: 25px;
+	margin-top: -20px;
+}
+.CC p b1{
+ margin-left: 68px;
+}
+.CC p b2{
+ margin-left: 45px;
+}
+.CC p b3{
+ margin-left: 4px;
+}
+.CC input{
+	width: 20px;
+	height: 20px;
+	border-color: 5px solid black;
+}
+.CC p b4{
+ margin-left: 35px;
+}
+.CC p b5{
+ margin-left: 77px;
+}
+.CC p b6{
+ margin-left: 55px;
+}
+.CC p b8{
+ margin-left: 45px;
+}
+.TTD p{
+	margin-top: 170px;
+	font-size: 15px;
+	margin-left: 50px;
+}
+.TTDM p{
+	text-align: right;
+	margin-top: -85px;
+	font-size: 15px;
+	margin-right: 50px;
+}
+#box1{
+	width: 140px;
+	height: 200px;
+	border: 1px solid black;
+	margin:auto;
+	margin-top: -60px;
+}
+#box1 p{
+	margin-top: 80px;
+	text-align: center;
+	font-size: 23px;
+}
+#box2{
+	width: 700px;
+	height: 200px;
+	border: 1px solid black;
+	margin:auto;
+}
+#box2 p{
+	font-size: 15px;
+	margin-left: 140px;
+	margin-top: 20px;
+}
+#box2 input{
+	width: 20px;
+	height: 20px;
+	border:1px solid black;
+}
+#box2 p b1{
+ margin-left: 10px;
+}
+#box2 p b2{
+ margin-left: 87px;
+}
+#box2 p b3{
+ margin-left: 55px;
+}
+#box2 p b4{
+ margin-left: 42px;
+}
+#box2 p b5{
+ margin-left: 38px;
+}
+#box4{
+	width: 140px;
+	height: 200px;
+	border: 1px solid black;
+	margin-top: -202px;
+	margin-left: 49px;
+}
+#box4 p{
+	margin-top: 80px;
+	text-align: center;
+	font-size: 23px;
+}
+#box5{
+	width: 148px;
+	height: 200px;
+	border: 1px solid black;
+	margin-top: -202px;
+	margin-left: 601px;
+}
+#box5 p b1{
+	font-size: 17px;
+ margin-left: 38px;
+}
+
+.foto p{
+	border-radius: 5px;
+	margin-top: 50px;
+}
